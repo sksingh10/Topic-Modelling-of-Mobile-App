@@ -1,0 +1,2 @@
+# Topic-Modelling-of-Mobile-App
+Think of Android applications as "documents", where "words" are the "permissions" that each app requests. Each app has a set of latent "purposes" (topics); a "purpose" may be a specific task (such as taking photographs and uploading them to the internet), and an application may have a mixture of purposes of varying strength.  Can we uncover these purposes from a dataset of Android applications and the permissions they request?
